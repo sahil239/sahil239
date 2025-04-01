@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ Who Am I?
 
-I'm a passionate Android developer with over **8 years** of experience building sleek, scalable, and super-satisfying mobile apps. From startups to global fintechs, I’ve led teams, squashed bugs, mentored devs, migrated legacy code (👋 Java, hello Kotlin!), and delivered apps that *just work*. Whether it's Jetpack Compose, MVVM, or some good ol’ `Log.d()`, I'm all about clean code, creative UI, and pushing pixels with purpose.
+I'm a passionate Android developer with over **10 years** of experience building sleek, scalable, and super-satisfying mobile apps. From startups to global fintechs, I’ve led teams, squashed bugs, mentored devs, migrated legacy code (👋 Java, hello Kotlin!), and delivered apps that *just work*. Whether it's Jetpack Compose, MVVM, or some good ol’ `Log.d()`, I'm all about clean code, creative UI, and pushing pixels with purpose.
 
 ---
 
