@@ -5,8 +5,7 @@
   </a>
 </h1>
 
-🚀 Android Craftsman | Kotlin Fanatic 💙 | Debugging Ninja 🐞 | Tech Explorer 🧭  
-📍 Hamilton, ON | ☕ Runs on Java (and actual coffee)
+🚀 Android Craftsman | Kotlin Fanatic 💙 | Debugging Ninja 🐞 | Tech Explorer 🧭 | ☕ Runs on Java (and actual coffee)
 
 ---
 
@@ -21,7 +20,7 @@ I'm a passionate Android developer with over **8 years** of experience building 
 - 💬 **Languages**: Kotlin, Java  
 - 🛠️ **Android Arsenal**: Jetpack Compose, Room, Firebase, Navigation, Coroutines  
 - 💉 **DI**: Dagger, Hilt  
-- 🌐 **Networking**: Retrofit, REST APIs, WebSockets  
+- 🌐 **Networking**: Retrofit, REST APIs  
 - 🧪 **Testing**: Unit Tests, Manual Testing  
 - 📈 **Workflow**: Git, Bitbucket, JIRA, Agile, CI/CD  
 - ☁️ **Backends & APIs**: Firebase, Laravel, Google Maps, Payment Gateways
@@ -30,7 +29,7 @@ I'm a passionate Android developer with over **8 years** of experience building 
 
 ## 💼 Experience Snapshot
 
-I've been slinging Android code for 8+ years across startups, fintech jungles, and med-tech missions 🧑‍💻. From crafting sleek Kotlin UIs with Jetpack Compose 🎨 to wrestling legacy Java code into the 21st century 🦖➡️🚀, I've done it all. I've led teams, mentored devs, debugged crashes at 2 AM (shoutout Firebase Crashlytics 🧯), and shipped apps that actually made it to the Play Store 🙌. I’ve danced with MVVM, wrestled with REST APIs☕⚔️. Whether it’s building from scratch or untangling spaghetti code, I bring clean vibes, clean code, and a touch of ✨fun✨ to everything I do.
+I've been slinging Android code for 10+ years across startups, fintech jungles, and med-tech missions 🧑‍💻. From crafting sleek Kotlin UIs with Jetpack Compose 🎨 to wrestling legacy Java code into the 21st century 🦖➡️🚀, I've done it all. I've led teams, mentored devs, debugged crashes at 2 AM (shoutout Firebase Crashlytics 🧯), and shipped apps that actually made it to the Play Store 🙌. I’ve danced with MVVM, wrestled with REST APIs☕⚔️. Whether it’s building from scratch or untangling spaghetti code, I bring clean vibes, clean code, and a touch of ✨fun✨ to everything I do.
 
 ---
 
