@@ -60,7 +60,3 @@ I've been slinging Android code for 8+ years across startups, fintech jungles, a
 - 🌐 Portfolio: [Coming Soon](https://sahildesai.dev)
 - 📱 Play Store: Ask me! I've got stories 🎯
 
----
-
-![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahil239&show_icons=true&theme=tokyonight)
-
