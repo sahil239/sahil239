@@ -54,7 +54,7 @@ I've been slinging Android code for 10+ years across startups, fintech jungles, 
 
 ## 📬 Let’s Connect!
 
-- 📧 Email: alivemind.sahil@gmail.com  
+- 📧 Email: connect@sahildesai.dev  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sahil-desai-44791177/)  
 - 🌐 Portfolio: [Coming Soon](https://sahildesai.dev)
 - 📱 Play Store: Ask me! I've got stories 🎯
